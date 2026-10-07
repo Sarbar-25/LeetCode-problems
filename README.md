@@ -10,3 +10,20 @@ The operation must be performed **in-place**.
 ### Input
 ```text
 [5, 2, 0, 3, 0, 1, 4]
+
+# Missing Number
+
+A C++ solution for the **Missing Number** problem from LeetCode.
+
+## Problem
+
+Given an array containing `n` distinct numbers taken from the range `[0, n]`, find the one number that is missing from the array.
+
+### Example
+
+```text
+Input:
+nums = [3, 0, 1]
+
+Output:
+2
